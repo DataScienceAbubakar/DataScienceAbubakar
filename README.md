@@ -1,4 +1,4 @@
-Hi 👋 My name is Abubakar Sabiu ===============================        High Frequency and Algorithmic trader, Software Engineer, System Analyst, Data Science Enthusiast ---------------------------------------------------------------------------------  * 🌍  I'm based in Nigeria * ✉️  You can contact me at [Sabiuabu@gmail.com](mailto:Sabiuabu@gmail.com) * 🧠  I'm learning MatplotLib, Pytorch * 🤝  I'm open to collaborating on Data Analysis, ML
+Hi 👋 My name is Abubakar Sabiu ===============================        High Frequency and Algorithmic trader, Software Engineer, System Analyst, Data Science Enthusiast ---------------------------------------------------------------------------------  * 🌍  I'm based in Nigeria * ✉️  You can contact me at [Sabiuabu@gmail.com](mailto:Sabiuabu@gmail.com) * 🧠  I'm learning MatplotLib, Pytorch * 🤝  I'm open to collaborating on HFT, Data Visualization & Analysis, ML
 
 ### Skills  
 
