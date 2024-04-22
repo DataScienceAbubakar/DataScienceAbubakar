@@ -1,4 +1,4 @@
-Hi 👋 My name is Abubakar Sabiu ===============================        High Frequency and Algorithmic trader, Software Engineer, System Analyst, Data Science Enthusiast ---------------------------------------------------------------------------------  * 🌍  I'm based in Nigeria * ✉️  You can contact me at [Sabiuabu@gmail.com](mailto:Sabiuabu@gmail.com) * 🧠  I'm learning MatplotLib, Pytorch * 🤝  I'm open to collaborating on HFT, Data Visualization & Analysis, ML
+Hi 👋 My name is Abubakar Sabiu ===============================        High Frequency and Algorithmic trader, Software Engineer, System Analyst. Co-Founder [Arbitency], Founder [NOMAGRO] ---------------------------------------------------------------------------------  * 🌍  I'm based in Nigeria * ✉️  You can contact me at [Sabiuabu@gmail.com](mailto:Sabiuabu@gmail.com) * 🧠  I'm learning Machine Learning & AI Application on AgTech & FinTech * 🤝  I'm open to collaborating on HFT, Machine Learning Models (Analysis, Development & Training), Data Analysis, Visualization & Software Engineering
 
 ### Skills  
 
@@ -8,4 +8,4 @@ Hi 👋 My name is Abubakar Sabiu ===============================        High Fr
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DataScienceAbubakar"><img src="https://github-readme-stats.vercel.app/api?username=DataScienceAbubakar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DataScienceAbubakar's GitHub stats" /></a>
+// <a href="http://www.github.com/DataScienceAbubakar"><img src="https://github-readme-stats.vercel.app/api?username=DataScienceAbubakar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DataScienceAbubakar's GitHub stats" /></a>
