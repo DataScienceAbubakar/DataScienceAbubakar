@@ -1,7 +1,7 @@
 Hi 👋 My name is Abubakar Sabiu
 ===============================
 
-AI/ML Engineer • DevOps Engineer • Full-Stack Developer
+Software Engineer• AI/ML Engineer • DevOps Engineer • Full-Stack Developer
 -------------------------------------------------------
 
 I’m a Backend, DevOps, and AI/ML Engineer focused on building scalable, production-grade systems powered by cloud infrastructure and intelligent models.
